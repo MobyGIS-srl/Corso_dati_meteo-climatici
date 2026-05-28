@@ -1,4 +1,4 @@
-# Corso datset meteo-climatici
+# Corso dataset meteo-climatici
 
 Per attivare l'ambiente interattivo, usa questo link:
 
